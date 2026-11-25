@@ -1,5 +1,17 @@
 [
  {
+  "id": "meduza-news-20261125-0955",
+  "title": "Медуза · Новости · 25.11 09:55",
+  "author": "30 материалов",
+  "url": "https://j7njbym5nv-wq.github.io/meduza-x4/issues/meduza-news-20261125-0955.epub"
+ },
+ {
+  "id": "meduza-articles-20261125-0955",
+  "title": "Медуза · Статьи · 25.11 09:55",
+  "author": "30 материалов",
+  "url": "https://j7njbym5nv-wq.github.io/meduza-x4/issues/meduza-articles-20261125-0955.epub"
+ },
+ {
   "id": "meduza-news-20261125-0145",
   "title": "Медуза · Новости · 25.11 01:45",
   "author": "30 материалов",
@@ -126,12 +138,6 @@
   "url": "https://j7njbym5nv-wq.github.io/meduza-x4/issues/meduza-en-20261124-0343.epub"
  },
  {
-  "id": "meduza-news-20261124-0140",
-  "title": "Медуза · Новости · 24.11 01:40",
-  "author": "30 материалов",
-  "url": "https://j7njbym5nv-wq.github.io/meduza-x4/issues/meduza-news-20261124-0140.epub"
- },
- {
   "id": "meduza-en-20261124-0140",
   "title": "Медуза · Meduza English · 24.11 01:40",
   "author": "30 материалов",
@@ -172,11 +178,5 @@
   "title": "Медуза · Статьи · 21.11 09:50",
   "author": "30 материалов",
   "url": "https://j7njbym5nv-wq.github.io/meduza-x4/issues/meduza-articles-20261121-0950.epub"
- },
- {
-  "id": "meduza-articles-20261120-1745",
-  "title": "Медуза · Статьи · 20.11 17:45",
-  "author": "30 материалов",
-  "url": "https://j7njbym5nv-wq.github.io/meduza-x4/issues/meduza-articles-20261120-1745.epub"
  }
 ]
